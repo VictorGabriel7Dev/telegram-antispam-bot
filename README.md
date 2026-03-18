@@ -1,2 +1,47 @@
+Português · [English](#-english)
+
 # telegram-antispam-bot
-Anti Spam bot for Telegram
+**Bot de moderação anti-spam para grupos do Telegram.**  
+**Anti-spam moderation bot for Telegram groups.**
+
+## Português
+
+Bot para Telegram que detecta e bane automaticamente usuários que enviam spam em grupos.
+
+### Configuração
+
+Edite as variáveis no dicionário `textos` dentro de `run.py`:
+
+| Variável | Descrição |
+|---|---|
+| `bot_api` | API ID de [my.telegram.org](https://my.telegram.org/apps) |
+| `bot_hash` | API Hash de [my.telegram.org](https://my.telegram.org/apps) |
+| `bot_sessao` | Caminho para o arquivo `.session` |
+| `bot_token` | Token do [@BotFather](https://t.me/BotFather) |
+
+### Licença
+
+Este projeto está licenciado sob a [Licença Pública Geral Affero GNU v3.0](https://www.gnu.org/licenses/agpl-3.0.html).  
+Para mais detalhes, consulte o arquivo [LICENSE](LICENSE).  
+
+---
+
+## English
+
+Telegram bot that automatically detects and bans users who send spam in groups.
+
+### Configuration
+
+Edit the `textos` dictionary in `run.py`:
+
+| Variable | Description |
+|---|---|
+| `bot_api` | API ID from [my.telegram.org](https://my.telegram.org/apps) |
+| `bot_hash` | API Hash from [my.telegram.org](https://my.telegram.org/apps) |
+| `bot_sessao` | Path to the `.session` file |
+| `bot_token` | Token from [@BotFather](https://t.me/BotFather) |
+
+### License
+
+This project is licensed under the [GNU Affero General Public License v3.0](https://www.gnu.org/licenses/agpl-3.0.html).  
+For more details, see the [LICENSE](LICENSE) file.  
