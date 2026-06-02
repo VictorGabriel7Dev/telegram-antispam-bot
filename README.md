@@ -23,7 +23,6 @@ Edite as variáveis no dicionário `textos` dentro de `run.py`:
 
 **Victor Gabriel**  
 · [victorgabriel.dev](https://victorgabriel.dev)  
-· [victorgabriel.dev.br](https://victorgabriel.dev.br)  
 · GitHub: [github.com/VictorGabriel7Dev](https://github.com/VictorGabriel7Dev)  
 · LinkedIn: [in/victorgabriel-dev](https://www.linkedin.com/in/victorgabriel-dev)  
 · Discord: `@VictorGabriel.dev`  
@@ -58,7 +57,6 @@ Edit the `textos` dictionary in `run.py`:
 
 **Victor Gabriel**  
 · [victorgabriel.dev](https://victorgabriel.dev)  
-· [victorgabriel.dev.br](https://victorgabriel.dev.br)  
 · GitHub: [github.com/VictorGabriel7Dev](https://github.com/VictorGabriel7Dev)  
 · LinkedIn: [in/victorgabriel-dev](https://www.linkedin.com/in/victorgabriel-dev)  
 · Discord: `@VictorGabriel.dev`  
