@@ -1,13 +1,11 @@
 #!/usr/bin/env python3
 # https://github.com/VictorGabriel7Dev/telegram-antispam-bot
 # https://victorgabriel.dev/projetos/telegram-antispam-bot
-# https://victorgabriel.dev.br/projetos/telegram-antispam-bot
 # SPDX-License-Identifier: AGPL-3.0-or-later
 # Vesion: 1.04
 #
 # Author: Victor Gabriel
 # Site: https://victorgabriel.dev
-# Site: https://victorgabriel.dev.br
 # E-mail: contato@victorgabriel.dev
 # GitHub: https://github.com/VictorGabriel7Dev
 # LinkedIn: https://www.linkedin.com/in/victorgabriel-dev
