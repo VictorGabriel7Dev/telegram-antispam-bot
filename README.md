@@ -1,6 +1,8 @@
 [📄 Site](https://victorgabriel.dev/projetos/telegram-antispam-bot) · [💻 GitHub](https://github.com/VictorGabriel7Dev/telegram-antispam-bot)
 
 # Telegram AntiSpam Bot
+
+![Python 3.8+](https://img.shields.io/badge/-Python%203.8+-2ea44f?style=flat&logo=python&logoColor=white) ![Telethon MTProto](https://img.shields.io/badge/-Telethon%20MTProto-1f9bcf?style=flat&logo=telegram&logoColor=white) ![AGPL-3.0](https://img.shields.io/badge/-AGPL--3.0-dfb317?style=flat) ![Anti-Spam](https://img.shields.io/badge/-Anti--Spam-e05d44?style=flat) ![Telegram Bot](https://img.shields.io/badge/-Telegram%20Bot-555555?style=flat&logo=telegram&logoColor=white)
 **Bot de moderação anti-spam para grupos do Telegram.**  
 **Anti-spam moderation bot for Telegram groups.**
 
